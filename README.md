@@ -1,7 +1,6 @@
 # ThinkGraph
 ### Natural Language → Knowledge Graph
 
-![demo](demo.gif)
 
 
 ThinkGraph converts unstructured natural language into a knowledge graph. Pass in the synopsis of your favorite movie, a passage from a confusing Wikipedia page, or transcript from a video to generate a graph visualization of entities and their relationships. 
