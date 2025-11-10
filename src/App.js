@@ -245,7 +245,7 @@ function App() {
     <div className='container'>
       <h1 className="headerText">ThinkGraph</h1>
       <p className='subheaderText'>Build complex, directed graphs to add structure to your ideas using natural language. Understand the relationships between people, systems, and maybe solve a mystery.</p>
-      <p className='opensourceText'><a href="https://github.com/varunshenoy/graphgpt">ThinkGraph is an open-source</a>&nbsp;🎉</p>
+      <p className='opensourceText'><a href="https://github.com/varunshenoy/thinkgraph">ThinkGraph is an open-source</a>&nbsp;🎉</p>
       <center>
         <div className='inputContainer'>
           <input className="searchBar" placeholder="Describe your graph..."></input>
